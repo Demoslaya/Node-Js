@@ -1,0 +1,42 @@
+[2024-01-26 00:49:34]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 00:49:49]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 00:52:02]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 00:55:17]  Error: Unknown column 'Description' in 'field list'
+
+[2024-01-26 00:59:46]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:13:08]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:18:06]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:21:14]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:21:26]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:21:45]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:22:31]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:23:41]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:23:49]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:28:57]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:30:40]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:31:45]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:31:52]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:32:00]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 01:34:55]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 10:34:10]  Error: Column 'Name' cannot be null
+
+[2024-01-26 10:35:56]  Error: Column 'Name' cannot be null
+

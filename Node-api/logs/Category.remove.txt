@@ -1,0 +1,4 @@
+[2024-01-26 01:39:30]  Error: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+
+[2024-01-26 10:57:09]  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ': Id' at line 1
+

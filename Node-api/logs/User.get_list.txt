@@ -1,0 +1,4 @@
+[2024-01-25 23:46:30]  Error: Table 'my_db.role_react_j' doesn't exist
+
+[2024-01-25 23:47:03]  Error: Table 'my_db.role_react_j' doesn't exist
+
